@@ -64,7 +64,7 @@ export function Contact() {
               </a>
             </Button>
             <Button variant="outline" asChild>
-              <a href="/ADHITHYA_V_SWE.pdf" download>
+              <a href="/ADHITHYA_V__SWE.pdf" download>
                 <Download className="h-4 w-4 mr-2" />
                 Resume
               </a>
