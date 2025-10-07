@@ -5,10 +5,7 @@ export function About() {
         <div>
           <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-4 text-balance">Adhithya V</h1>
           <h2 className="text-xl md:text-2xl text-muted-foreground mb-6">Aspiring Data Analyst & Software Engineer</h2>
-          {/* <p className="text-lg text-muted-foreground max-w-2xl text-pretty">
-            I build scalable, user-focused web applications with modern technologies. Passionate about clean code,
-            performance optimization, and creating exceptional digital experiences.
-          </p> */}
+          
         </div>
       </div>
 

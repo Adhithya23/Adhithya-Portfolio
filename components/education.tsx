@@ -22,25 +22,7 @@ export function Education() {
               <p className="text-muted-foreground">
                 <strong>CGPA:</strong> 7.4 
               </p>
-              {/* <div>
-                <p className="font-medium text-foreground mb-2">Relevant Coursework:</p>
-                <div className="flex flex-wrap gap-2">
-                  {[
-                    "Data Structures & Algorithms",
-                    "Software Engineering",
-                    "Database Systems",
-                    "Web Development",
-                    "Computer Networks",
-                    "Operating Systems",
-                    "Machine Learning",
-                    "Software Architecture",
-                  ].map((course) => (
-                    <Badge key={course} variant="outline">
-                      {course}
-                    </Badge>
-                  ))}
-                </div>
-              </div> */}
+ 
             </div>
           </CardContent>
         </Card>
@@ -84,34 +66,6 @@ export function Education() {
         </Card>
 
        
-{/* 
-        <Card>
-          <CardHeader>
-            <div className="flex justify-between items-start">
-              <div>
-                <CardTitle className="text-xl">Certifications</CardTitle>
-              </div>
-            </div>
-          </CardHeader>
-          <CardContent>
-            <div className="space-y-4">
-              <div className="flex justify-between items-center">
-                <div>
-                  <p className="font-medium text-foreground">Career Essentials in Data Analytics</p>
-                  <p className="text-sm text-muted-foreground">Linkedin and Microsoft</p>
-                </div>
-                <Badge variant="secondary">2025</Badge>
-              </div>
-              <div className="flex justify-between items-center">
-                <div>
-                  <p className="font-medium text-foreground"> Java </p>
-                  <p className="text-sm text-muted-foreground">Udemy</p>
-                </div>
-                <Badge variant="secondary">2024</Badge>
-              </div>
-            </div>
-          </CardContent>
-        </Card> */}
       </div>
     </section>
   )
