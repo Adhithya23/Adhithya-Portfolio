@@ -12,7 +12,7 @@ export function Education() {
             <div className="flex justify-between items-start">
               <div>
                 <CardTitle className="text-xl">Bachelor of Engineering (Computer Science Engineering)</CardTitle>
-                <p className="text-muted-foreground">KSR Institute for Enginering and Technology</p>
+                <p className="text-muted-foreground">KSR Institute for Engineering and Technology</p>
               </div>
               <Badge variant="secondary">2021 - 2025</Badge>
             </div>
