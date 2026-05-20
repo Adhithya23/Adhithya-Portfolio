@@ -32,7 +32,7 @@ export function Education() {
             <div className="flex justify-between items-start">
               <div>
                 <CardTitle className="text-xl">HSC</CardTitle>
-                <p className="text-muted-foreground">Sri Vijay Vidyalaya Matric Higher Secoondary School</p>
+                <p className="text-muted-foreground">Sri Vijay Vidyalaya Matric Higher Secondary School</p>
               </div>
               <Badge variant="secondary">2020 - 2021</Badge>
             </div>
@@ -51,7 +51,7 @@ export function Education() {
             <div className="flex justify-between items-start">
               <div>
                 <CardTitle className="text-xl">SSLC</CardTitle>
-                <p className="text-muted-foreground">Sri Vijay Vidyalaya Matric Higher Secoondary School</p>
+                <p className="text-muted-foreground">Sri Vijay Vidyalaya Matric Higher Secondary School</p>
               </div>
               <Badge variant="secondary">2018 - 2019</Badge>
             </div>
